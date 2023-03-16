@@ -1,2 +1,4 @@
-# twotime.com
-My Home Page
+# TwoTime
+###Welcome to my Homepage
+
+I'am a indie game developer
